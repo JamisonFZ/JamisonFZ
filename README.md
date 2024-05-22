@@ -3,11 +3,11 @@ Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas ha
 
 Habilidades:
 
-PHP Laravel (experiência intermediária/avançada)
-MySQL (experiência intermediária/avançada)
-HTML/CSS (experiência básica/intermediária)
-Git e controle de versão
-Experiência em metodologias ágeis de desenvolvimento
+PHP Laravel (experiência intermediária/avançada) </br>
+MySQL (experiência intermediária/avançada) </br>
+HTML/CSS (experiência básica/intermediária) </br>
+Git e controle de versão </br>
+Experiência em metodologias ágeis de desenvolvimento </br>
 Comunicação clara e eficaz.
 
 Back-end
