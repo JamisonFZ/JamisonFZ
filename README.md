@@ -1,15 +1,6 @@
 ## Olá, me chamo Jamison ✌️
 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades, explorando as últimas tecnologias e compartilhando meu conhecimento.
 
-Habilidades:
-
-PHP Laravel (experiência intermediária/avançada) </br>
-MySQL (experiência intermediária/avançada) </br>
-HTML/CSS (experiência básica/intermediária) </br>
-Git e controle de versão </br>
-Experiência em metodologias ágeis de desenvolvimento </br>
-Comunicação clara e eficaz.
-
 Back-end
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
